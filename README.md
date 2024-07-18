@@ -26,4 +26,4 @@ Excel
 Tableau
 
 ##### Visualizations
-Visualizations were created using Tableau Public and are viewable here: [Tableau]()
+Visualizations were created using Tableau Public and are viewable here: [Tableau](https://public.tableau.com/app/profile/kevin.clancy2418/viz/NFL_Spreads/Story1)
